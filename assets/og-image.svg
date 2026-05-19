@@ -1,0 +1,35 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="630" fill="#051625"/>
+  <rect x="38" y="38" width="1124" height="554" rx="34" fill="url(#paint0_linear)" stroke="#2B4D6B"/>
+  <circle cx="1001" cy="141" r="108" fill="url(#paint1_radial)" fill-opacity="0.45"/>
+  <circle cx="202" cy="503" r="126" fill="url(#paint2_radial)" fill-opacity="0.22"/>
+  <path d="M714 399C762.667 350.333 811.333 350.333 860 399C908.667 447.667 957.333 447.667 1006 399C1054.67 350.333 1103.33 350.333 1152 399" stroke="#5DD0FF" stroke-width="8" stroke-linecap="round"/>
+  <path d="M92 140H450" stroke="#8FE4FF" stroke-width="4"/>
+  <path d="M92 178H387" stroke="#2E5479" stroke-width="4"/>
+  <path d="M92 216H515" stroke="#2E5479" stroke-width="4"/>
+  <rect x="92" y="286" width="336" height="110" rx="24" fill="#08243C" stroke="#315A80"/>
+  <text x="132" y="354" fill="#ECF7FF" font-family="Rajdhani, Arial, sans-serif" font-size="74" font-weight="700">BCL INGENIERIA</text>
+  <text x="92" y="468" fill="#6FD8FF" font-family="Rajdhani, Arial, sans-serif" font-size="54" font-weight="700">MONITOREO DE CONDICION</text>
+  <text x="92" y="525" fill="#C6D8E5" font-family="Manrope, Arial, sans-serif" font-size="30">Soluciones de ingenieria para confiabilidad industrial y mantenimiento predictivo.</text>
+  <rect x="710" y="124" width="352" height="198" rx="24" fill="#09253D" stroke="#315A80"/>
+  <circle cx="821" cy="226" r="62" fill="#061A2C" stroke="#5DD0FF" stroke-width="4"/>
+  <path d="M782 226C791 194 811 182 821 182C831 182 851 194 860 226" stroke="#5DD0FF" stroke-width="5" stroke-linecap="round"/>
+  <path d="M895 186H1018" stroke="#93DDFF" stroke-width="3"/>
+  <path d="M895 214H1040" stroke="#2B4F72" stroke-width="3"/>
+  <path d="M895 242H986" stroke="#2B4F72" stroke-width="3"/>
+  <path d="M895 270H1032" stroke="#2B4F72" stroke-width="3"/>
+  <defs>
+    <linearGradient id="paint0_linear" x1="600" y1="38" x2="600" y2="592" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0C2B46"/>
+      <stop offset="1" stop-color="#051523"/>
+    </linearGradient>
+    <radialGradient id="paint1_radial" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1001 141) rotate(90) scale(108)">
+      <stop stop-color="#5DD0FF"/>
+      <stop offset="1" stop-color="#5DD0FF" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="paint2_radial" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(202 503) rotate(90) scale(126)">
+      <stop stop-color="#5DD0FF"/>
+      <stop offset="1" stop-color="#5DD0FF" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+</svg>
