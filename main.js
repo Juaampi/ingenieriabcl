@@ -1,4 +1,13 @@
 const revealNodes = document.querySelectorAll(".reveal");
+const scrollClassTarget = document.body;
+
+const syncHeaderState = () => {
+  if (window.scrollY > 56) {
+    scrollClassTarget.classList.add("is-scrolled");
+  } else {
+    scrollClassTarget.classList.remove("is-scrolled");
+  }
+};
 
 if ("IntersectionObserver" in window) {
   const observer = new IntersectionObserver(
@@ -20,3 +29,6 @@ if ("IntersectionObserver" in window) {
 } else {
   revealNodes.forEach((node) => node.classList.add("visible"));
 }
+
+syncHeaderState();
+window.addEventListener("scroll", syncHeaderState, { passive: true });
